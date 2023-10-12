@@ -24,6 +24,8 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 
 
 - Here is the output
+
+- 
   <img width="578" alt="r" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/34628dab-d49c-4336-a155-bddea3e31b29">
 
 
@@ -45,10 +47,14 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 
 <img width="400" alt="Q3" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/286ec687-fe06-4f7a-bf0e-2474e75d9706">
 
-
+- Retrieved fiscal_year using user-defined function.
+- Calculated yearly_sales using aggregate function(SUM).
+- Joined two tables fact_sales_monthly and fact_gross_price.
+-  
 <img width="338" alt="S3" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/c6581251-830b-4e57-91a1-1d49356d3e4d">
 
-
+- Generated a report for Croma India.
+- In fisal year 2022 Croma India has the highest sales.
 
 <img width="213" alt="R3" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/75fc9a12-e8bb-4f10-8576-880b958413d5">
 
