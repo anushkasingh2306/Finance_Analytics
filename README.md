@@ -16,7 +16,8 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 
 <img width="437" alt="1" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/ac4331f8-3313-417a-89eb-8bd45e745ba5">
 
-
+- I created two user-defined functions get_fiscal_year and get_fiscal_year_quarter.
+- I used JOIN to get the report.
 
 
 <img width="403" alt="Sql" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/b4664184-ecd0-4656-bf77-4fec464308fa">
