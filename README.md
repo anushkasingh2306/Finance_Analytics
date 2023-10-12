@@ -12,8 +12,7 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 ## Insights
 
 ### User-defined functions
-![alt text]("C:\Users\lenovo\Pictures\1.png")
-[link](https://codebasics.io/courses/bootcamp/1/sql-beginner-to-advanced-for-data-professionals/lecture/1074)
+
 
 <img width="437" alt="1" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/ac4331f8-3313-417a-89eb-8bd45e745ba5">
 
