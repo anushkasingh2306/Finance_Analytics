@@ -9,3 +9,8 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 - Gross Price
 - Gross Price Total
 
+## Insights
+
+### User-defined functions
+[hi]("C:\Users\lenovo\Pictures\1.png")
+
