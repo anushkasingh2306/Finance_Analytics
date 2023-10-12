@@ -33,6 +33,14 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 <img width="457" alt="gross" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/619b6b53-7205-4fe0-8839-70d81d9cfac9">
 
 
+<img width="386" alt="S2" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/79a26e75-d7a1-4131-85f0-e10bd36d4f5c">
+
+
+
+<img width="150" alt="R2" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/b4b45f76-33ff-4545-a49f-5b5790a6e917">
+
+
+
 
 
 
