@@ -27,7 +27,7 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 - This report will help in tracking individual product sales and help in analysing products.
   
   <img width="578" alt="r" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/34628dab-d49c-4336-a155-bddea3e31b29">
-
+[Croma India product wise sales]("C:\Users\lenovo\Documents\SQL PROJECT\croma__2021_all_trans.csv")
 
 ### Gross Monthly Total Sales Report
 
