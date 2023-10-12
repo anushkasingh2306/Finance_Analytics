@@ -27,7 +27,7 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 - This report will help in tracking individual product sales and help in analysing products.
   
   <img width="578" alt="r" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/34628dab-d49c-4336-a155-bddea3e31b29">
-[Croma India product wise sales]("C:\Users\lenovo\Documents\SQL PROJECT\croma__2021_all_trans.csv")
+[croma__2021_all_trans.csv](https://github.com/anushkasingh2306/Finance_Analytics/files/12880376/croma__2021_all_trans.csv)
 
 ### Gross Monthly Total Sales Report
 
@@ -44,7 +44,7 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 - I generated a report for gross_price_total.
 
 <img width="150" alt="R2" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/b4b45f76-33ff-4545-a49f-5b5790a6e917">
-
+[monthly_sales.csv](https://github.com/anushkasingh2306/Finance_Analytics/files/12880396/monthly_sales.csv)
 
 ### Yearly Sales Report
 
@@ -60,6 +60,7 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 - In the fiscal year 2022 Croma India has the highest sales.
 
 <img width="213" alt="R3" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/75fc9a12-e8bb-4f10-8576-880b958413d5">
+ [yearly_sales.csv](https://github.com/anushkasingh2306/Finance_Analytics/files/12880402/yearly_sales.csv)
 
 
 
