@@ -30,7 +30,8 @@ AtliQ Hardware is a company that sells computer hardwares to clients which has s
 
 
 
-[croma__2021_all_trans.csv](https://github.com/anushkasingh2306/Finance_Analytics/files/12878778/croma__2021_all_trans.csv)
+<img width="457" alt="gross" src="https://github.com/anushkasingh2306/Finance_Analytics/assets/123302995/619b6b53-7205-4fe0-8839-70d81d9cfac9">
+
 
 
 
